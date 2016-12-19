@@ -1,8 +1,4 @@
 # hell-world
-Git Tutorials
-# Test Project
-
-this is a test project
 
 ## this is second header
 - one
